@@ -1,7 +1,7 @@
 # SQLBox
 **Convert a shared local drive to an automatic SQL database querying assistant.**
 
-###Challenge
+### Challenge  
 The nature of our team requires constant SQL data queries, and very often the queries can take really long time. Standard laptop is limited for that purpose, since the querying job might get interrupted. On the other hand, the shared desktop runs Windows 7 only allows one user a time to access.
 
 ### Resources
