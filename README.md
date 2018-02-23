@@ -9,4 +9,4 @@ The nature of our team requires constant SQL data queries, and very often the qu
 - A shared LAN drive is assigned to the team, and each user has the ownership and permission of his/her folder. While administrator has access to all the folders. 
 
 ### Solution
-A python code repetitively monitoring the SQL query script changes of the LAN drive, and run the SQL queries whenever new files are added or changed.  Using Windows Task scheduler to run a python code at start. 
+A python code repetitively monitors any SQL query script changes saved to the LAN drive, and run the SQL queries whenever new scripts are added or changed.  Using Windows Task scheduler to run a python code at start. 
