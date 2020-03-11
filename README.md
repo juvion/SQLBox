@@ -12,4 +12,4 @@ The nature of our team requires constant SQL data queries, and very often the qu
 A python code repetitively monitors any SQL query script changes saved to the LAN drive, and run the SQL queries whenever new scripts are added or changed.  Using Windows Task scheduler to run a python code at start. 
 
 ### Features
-This tool supports multiple treads to run querying jobs.
+This tool supports multiple threads to run querying jobs.
